@@ -1,0 +1,59 @@
+{
+  "result": true,
+  "data": [
+    {
+      "medical_center_name": "のずえ小児科",
+      "medical_center_cd": "1310828434",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団おかの小児科",
+      "medical_center_cd": "1310828657",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団済世会望月内科クリニック",
+      "medical_center_cd": "1310828798",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団亀戸佐藤のり子クリニック",
+      "medical_center_cd": "1310828988",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "までのこうじクリニック",
+      "medical_center_cd": "1310829044",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団いつくし会吉田まゆみ内科",
+      "medical_center_cd": "1310829077",
+      "reservation_reception": "×"
+    },
+    {
+      "medical_center_name": "東大島パークサイドクリニック",
+      "medical_center_cd": "1310829085",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団すこやか会荒木医院",
+      "medical_center_cd": "1310829135",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団玄武会天神通りクリニック",
+      "medical_center_cd": "1310829143",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "かしわぎクリニック",
+      "medical_center_cd": "1310829259",
+      "reservation_reception": "〇"
+    }
+  ],
+  "is_error": false,
+  "error_msg": "",
+  "total_count": 86,
+  "iDisplayStart": 30
+}

@@ -1,0 +1,9 @@
+Hello {{ $.Name }}({{ $.ID }}),
+{{ if $.RangeKey }}You are logged in with Vaccine Ticket No.{{ $.RangeKey }} in {{ $.PartitionName }}.
+You currently have {{ len $.Reservations }} reservation(s).
+{{ range $i, $reservation := $.Reservations }}
+<b>[{{ inc $i }}/{{ len $.Reservations }}] {{ $reservation.Date.Format "2006/01/02 15:04" }}:</b> ID({{ $reservation.ID
+}}) {{ $reservation.Department }}{{ end }}
+{{ else }}{{ if $.PartitionName }}You are not logged in, but your have configured to view data in {{ $.PartitionName }}.
+{{ else }}You are not logged in, you can still use '/set_partition' configure me to show data in a specific area.
+{{ end }}{{ end }}

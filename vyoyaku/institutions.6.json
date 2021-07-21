@@ -1,0 +1,59 @@
+{
+  "result": true,
+  "data": [
+    {
+      "medical_center_name": "さくらハートクリニック",
+      "medical_center_cd": "1310830976",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "たち内科小児科クリニック",
+      "medical_center_cd": "1310830992",
+      "reservation_reception": "×"
+    },
+    {
+      "medical_center_name": "医療法人社団存誠会神津クリニック",
+      "medical_center_cd": "1310831024",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "本田医院",
+      "medical_center_cd": "1310831255",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団ハッピーファースト　ビーハッピークリニック",
+      "medical_center_cd": "1310831362",
+      "reservation_reception": "×"
+    },
+    {
+      "medical_center_name": "医療法人社団忠州会永代クリニック",
+      "medical_center_cd": "1310831487",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団駿圭美会水谷皮フ科クリニック",
+      "medical_center_cd": "1310831594",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団永岡医院永岡クリニック",
+      "medical_center_cd": "1310831701",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "森下駅前クリニック",
+      "medical_center_cd": "1310831750",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "亀戸内科クリニック",
+      "medical_center_cd": "1310831768",
+      "reservation_reception": "〇"
+    }
+  ],
+  "is_error": false,
+  "error_msg": "",
+  "total_count": 86,
+  "iDisplayStart": 60
+}

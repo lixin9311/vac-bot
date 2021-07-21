@@ -1,0 +1,59 @@
+{
+  "result": true,
+  "data": [
+    {
+      "medical_center_name": "五の橋レディスクリニック",
+      "medical_center_cd": "1310829267",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "中澤医院",
+      "medical_center_cd": "1310829358",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団俊智会みやたけクリニック",
+      "medical_center_cd": "1310829366",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団渡辺こどもクリニック",
+      "medical_center_cd": "1310829440",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団千秋双葉会大島耳鼻咽喉科・アレルギー科",
+      "medical_center_cd": "1310829481",
+      "reservation_reception": "×"
+    },
+    {
+      "medical_center_name": "医療法人社団季邦会びやじま内科医院・大島駅前",
+      "medical_center_cd": "1310829523",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "おおぞら太陽クリニック",
+      "medical_center_cd": "1310829531",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "北原診療所",
+      "medical_center_cd": "1310829812",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団城東桐和会東陽町駅前クリニック",
+      "medical_center_cd": "1310830000",
+      "reservation_reception": "×"
+    },
+    {
+      "medical_center_name": "医療法人社団ＴＩＫ大手町さくらクリニックｉｎ豊洲",
+      "medical_center_cd": "1310830091",
+      "reservation_reception": "〇"
+    }
+  ],
+  "is_error": false,
+  "error_msg": "",
+  "total_count": 86,
+  "iDisplayStart": 40
+}

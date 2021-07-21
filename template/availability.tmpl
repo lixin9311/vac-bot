@@ -1,0 +1,6 @@
+There are following availabilities (capped to 10):
+{{ range $i, $slot := $.Availabilities }}
+<b>[{{ inc $i }}/{{ len $.Availabilities }}] {{ $slot.Date.Format "2006/01/02 15:04" }}: ID({{ $slot.ID }}) {{ $slot.NumOfAvailability }} available slots at {{ $slot.Department }}{{end}}
+{{ if $.LoggedIn }}
+Use the buttons below to reserve.
+{{ end }}

@@ -1,0 +1,59 @@
+{
+  "result": true,
+  "data": [
+    {
+      "medical_center_name": "医療法人社団心聖会亀戸駅前クリニック",
+      "medical_center_cd": "1310826875",
+      "reservation_reception": "×"
+    },
+    {
+      "medical_center_name": "医療法人財団寿康会寿康会診療所健診センタークリニック",
+      "medical_center_cd": "1310827212",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団河仁会河野外科",
+      "medical_center_cd": "1310827253",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "もりした耳鼻咽喉科",
+      "medical_center_cd": "1310827444",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人財団三友会深川ギャザリアクリニック",
+      "medical_center_cd": "1310828020",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団健成会小林内科クリニック",
+      "medical_center_cd": "1310828046",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "タウンセンタークリニック",
+      "medical_center_cd": "1310828129",
+      "reservation_reception": "×"
+    },
+    {
+      "medical_center_name": "医療法人社団康悠会しおかぜクリニック",
+      "medical_center_cd": "1310828228",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "亀戸水神森クリニック",
+      "medical_center_cd": "1310828319",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "みね内科･消化器科",
+      "medical_center_cd": "1310828327",
+      "reservation_reception": "〇"
+    }
+  ],
+  "is_error": false,
+  "error_msg": "",
+  "total_count": 86,
+  "iDisplayStart": 20
+}

@@ -1,0 +1,59 @@
+{
+  "result": true,
+  "data": [
+    {
+      "medical_center_name": "藤川内科･呼吸器内科クリニック",
+      "medical_center_cd": "1310831826",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "Mｓクリニックもんなか",
+      "medical_center_cd": "1310831834",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "東京中央卸売市場診療所",
+      "medical_center_cd": "1310831925",
+      "reservation_reception": "×"
+    },
+    {
+      "medical_center_name": "服部医院",
+      "medical_center_cd": "1310832006",
+      "reservation_reception": "×"
+    },
+    {
+      "medical_center_name": "豊洲はるそらファミリークリニック",
+      "medical_center_cd": "1310832170",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "赤羽根医院",
+      "medical_center_cd": "1310832220",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "東陽町南砂みやけ内科",
+      "medical_center_cd": "1310832287",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団千秋双葉会亀戸耳鼻咽喉科･アレルギー科",
+      "medical_center_cd": "1310832337",
+      "reservation_reception": "×"
+    },
+    {
+      "medical_center_name": "幸若整形外科クリニック",
+      "medical_center_cd": "1310832394",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団千秋双葉会東陽町耳鼻咽喉科･アレルギー科",
+      "medical_center_cd": "1310832410",
+      "reservation_reception": "×"
+    }
+  ],
+  "is_error": false,
+  "error_msg": "",
+  "total_count": 86,
+  "iDisplayStart": 70
+}

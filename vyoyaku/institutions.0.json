@@ -1,0 +1,59 @@
+{
+  "result": true,
+  "data": [
+    {
+      "medical_center_name": "江東区スポーツ会館",
+      "medical_center_cd": "1309990012",
+      "reservation_reception": "×"
+    },
+    {
+      "medical_center_name": "医療法人社団みき会サンフィールドクリニック",
+      "medical_center_cd": "1309990072",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "深川スポーツセンター",
+      "medical_center_cd": "1309990370",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "亀戸スポーツセンター",
+      "medical_center_cd": "1309990371",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "有明スポーツセンター",
+      "medical_center_cd": "1309990372",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "東砂スポーツセンター",
+      "medical_center_cd": "1309990373",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "深川北スポーツセンター",
+      "medical_center_cd": "1309990374",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "社会福祉法人あそか会あそか病院",
+      "medical_center_cd": "1310814913",
+      "reservation_reception": "×"
+    },
+    {
+      "medical_center_name": "医療法人財団寿康会寿康会病院",
+      "medical_center_cd": "1310816736",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団正井診療所",
+      "medical_center_cd": "1310825646",
+      "reservation_reception": "〇"
+    }
+  ],
+  "is_error": false,
+  "error_msg": "",
+  "total_count": 86,
+  "iDisplayStart": 0
+}

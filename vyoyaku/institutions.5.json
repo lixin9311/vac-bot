@@ -1,0 +1,59 @@
+{
+  "result": true,
+  "data": [
+    {
+      "medical_center_name": "医療法人社団公雄会豊洲寺沢クリニック",
+      "medical_center_cd": "1310830224",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団雄翔会あおばクリニック",
+      "medical_center_cd": "1310830232",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人順齡會　南砂町おだやかクリニック",
+      "medical_center_cd": "1310830265",
+      "reservation_reception": "×"
+    },
+    {
+      "medical_center_name": "医療法人社団秀優会笠井小児クリニック",
+      "medical_center_cd": "1310830364",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "豊洲医院",
+      "medical_center_cd": "1310830497",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団共咲会サワイメディカルクリニック",
+      "medical_center_cd": "1310830612",
+      "reservation_reception": "×"
+    },
+    {
+      "medical_center_name": "エリゼこどもクリニック",
+      "medical_center_cd": "1310830620",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人茜会あかねクリニック",
+      "medical_center_cd": "1310830679",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "東陽パークサイドクリニック",
+      "medical_center_cd": "1310830703",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団誠礼会とよす内科クリニック(豊洲)",
+      "medical_center_cd": "1310830802",
+      "reservation_reception": "〇"
+    }
+  ],
+  "is_error": false,
+  "error_msg": "",
+  "total_count": 86,
+  "iDisplayStart": 50
+}

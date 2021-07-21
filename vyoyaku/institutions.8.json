@@ -1,0 +1,39 @@
+{
+  "result": true,
+  "data": [
+    {
+      "medical_center_name": "医療法人社団修世会木場病院",
+      "medical_center_cd": "1310870113",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団藤﨑病院",
+      "medical_center_cd": "1310870857",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団愛育会愛和病院",
+      "medical_center_cd": "1310870873",
+      "reservation_reception": "×"
+    },
+    {
+      "medical_center_name": "医療法人社団清湘会清湘会記念病院",
+      "medical_center_cd": "1310870915",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団高裕会深川立川病院",
+      "medical_center_cd": "1310870964",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "一般社団法人巨樹の会江東リハビリテーション病院",
+      "medical_center_cd": "1310870998",
+      "reservation_reception": "×"
+    }
+  ],
+  "is_error": false,
+  "error_msg": "",
+  "total_count": 86,
+  "iDisplayStart": 80
+}

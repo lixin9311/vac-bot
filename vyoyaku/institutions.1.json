@@ -1,0 +1,59 @@
+{
+  "result": true,
+  "data": [
+    {
+      "medical_center_name": "医療法人社団賛仁会惠仁クリニック",
+      "medical_center_cd": "1310825703",
+      "reservation_reception": "×"
+    },
+    {
+      "medical_center_name": "医療法人社団平生会神原医院",
+      "medical_center_cd": "1310826099",
+      "reservation_reception": "×"
+    },
+    {
+      "medical_center_name": "医療法人社団東柏会亀高医院",
+      "medical_center_cd": "1310826198",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "正木医院",
+      "medical_center_cd": "1310826420",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "豊島医院",
+      "medical_center_cd": "1310826537",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団彩新会テレコムセンタービルクリニック",
+      "medical_center_cd": "1310826594",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団芳葵会魚住整形外科",
+      "medical_center_cd": "1310826636",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "クリニック東陽町",
+      "medical_center_cd": "1310826750",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "大島医院",
+      "medical_center_cd": "1310826784",
+      "reservation_reception": "〇"
+    },
+    {
+      "medical_center_name": "医療法人社団基和会南砂メディカルクリニック",
+      "medical_center_cd": "1310826800",
+      "reservation_reception": "〇"
+    }
+  ],
+  "is_error": false,
+  "error_msg": "",
+  "total_count": 86,
+  "iDisplayStart": 10
+}
