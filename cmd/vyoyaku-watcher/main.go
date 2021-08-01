@@ -3,6 +3,7 @@ package main
 import (
 	"context"
 	"flag"
+	"fmt"
 	"log"
 	"time"
 
@@ -20,6 +21,7 @@ var (
 )
 
 func main() {
+	flag.Parse()
 	ctx := context.Background()
 	client, err := vyoyaku.NewClient(ctx, *entrypoint)
 	if err != nil {
@@ -34,11 +36,15 @@ func main() {
 		}
 	}
 	if *before != "" {
-		afterDate, err = time.ParseInLocation("2006-01-02", *before, locAsiaTokyo)
+		beforeDate, err = time.ParseInLocation("2006-01-02", *before, locAsiaTokyo)
 		if err != nil {
 			log.Fatalln("cannot parse from date:", err)
 		}
 	}
+	fmt.Println("cutoff", cutoff)
+	fmt.Println("after", afterDate)
+	fmt.Println("before", beforeDate)
+	time.Sleep(10 * time.Second)
 	for {
 		hit := false
 		total := 0
